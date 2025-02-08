@@ -10,6 +10,4 @@ DinosaurGame:
 
  - Built on an Arduino Uno R3 board
  - Components include: Wires, Power supply, Two Servo Motors, Two TCS34725 sensors, and Breadboard
- - (A pull-up resistor may be necessary because multiple I2C devices are used but the TCS sensors have built-in pull-up resistors)
-
 
